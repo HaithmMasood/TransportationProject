@@ -29,6 +29,10 @@ Each class has its unique attributes and methods, contributing to the overall fu
    - Part I includes a driver program that demonstrates the functionality of all classes and a method `findLeastAndMostExpensiveAircraft()`.
    - Part II includes a new driver program with a `copyTheObjects()` method, testing the behavior of copied objects.
 
-## Usage
-you will clone it to your local computer and run partOne and partTwo file. 
+## Installation
+To run this application, ensure you have Java installed on your system. Clone the repository, navigate to the source directory, and run the main Java file.
+
+## Contributing
+This project was developed as part of an academic assignment. While it is not open for contributions, feedback and suggestions are always welcome.
+
 
